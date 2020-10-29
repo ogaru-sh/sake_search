@@ -1,0 +1,6 @@
+[submodule "front/sake_search_front"]
+	path = front/sake_search_front
+	url = https://github.com/ogaru-sh/sake_search_front.git
+[submodule "api"]
+	path = api
+	url = https://github.com/ogaru-sh/sake_search_api.git
